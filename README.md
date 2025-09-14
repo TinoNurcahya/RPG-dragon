@@ -23,6 +23,6 @@ Game ini dibuat menggunakan:
 
 ---
 ## 🔗 Link Website
-[https://tinonurcahya.github.io/RPG-dragon/]
+[https://tinonurcahya.github.io/RPG-dragon-game-js/]
 
 
